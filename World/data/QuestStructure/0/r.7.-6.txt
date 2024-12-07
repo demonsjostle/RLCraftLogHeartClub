@@ -1,0 +1,14 @@
+StoneLeafMound,3893,3902,-3138,-3131
+P_RuinedHouse,3794,3819,-3111,-3094
+StonePlantMound2,3933,3946,-3124,-3112
+StonePlantBoulder,3780,3790,-3107,-3097
+RLCraft_DecentWitch,3787,3787,-3112,-3112
+RLCraft_UndergroundRuin3,3784,3792,-3118,-3110
+StonePlantBoulder,3767,3777,-3086,-3076
+StonePlantMound2,3747,3760,-3096,-3084
+StonePlantMound,3818,3823,-3206,-3201
+StoneLeafMound,3966,3975,-3179,-3172
+SmallWoodenCottage1,3876,3887,-3233,-3227
+StonePlantMound1,3904,3910,-3241,-3235
+StonePlantMound1,4004,4010,-3238,-3232
+StonePlantBoulder,3929,3939,-3309,-3299

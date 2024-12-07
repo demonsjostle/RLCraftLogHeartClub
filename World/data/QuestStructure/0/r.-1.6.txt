@@ -1,0 +1,4 @@
+StoneLeafMound,-536,-529,3361,3370
+DinosaurSkeleton,-535,-489,3353,3362
+RLCraft_DecentSpider,-544,-544,3286,3286
+RLCraft_UndergroundRuin3,-547,-539,3280,3288

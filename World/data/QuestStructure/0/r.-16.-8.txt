@@ -1,0 +1,8 @@
+StonePlantMound,-8273,-8268,-4219,-4214
+StoneBoulder,-8333,-8324,-4237,-4228
+StonePlantMound,-8212,-8207,-4217,-4212
+RLCraft_SmallUndergroundSkeleton,-8379,-8371,-4148,-4140
+StonePlantMound4,-8227,-8220,-4252,-4245
+SmallAbandonedMine,-8391,-8366,-4230,-4215
+StoneBoulder,-8218,-8209,-4243,-4234
+StonePlantMound4,-8328,-8321,-4306,-4299

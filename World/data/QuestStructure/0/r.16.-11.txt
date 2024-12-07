@@ -1,0 +1,7 @@
+StonePlantMound,8256,8261,-6143,-6138
+RLCraft_FriendlyOutpost,8213,8281,-6155,-6116
+ClayWaterMound1,8198,8209,-6107,-6097
+StonePlantMound3,8189,8200,-6118,-6109
+StoneBoulder,8347,8356,-6148,-6139
+StonePlantMound1,8383,8389,-6144,-6138
+StonePlantMound4,8194,8201,-5985,-5978

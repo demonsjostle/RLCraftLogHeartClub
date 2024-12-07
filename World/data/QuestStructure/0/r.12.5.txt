@@ -1,0 +1,9 @@
+SmallAbandonedMine,6360,6385,2888,2903
+StoneIceBoulder3,6455,6465,2918,2928
+RLCraft_UndergroundFarm,6413,6456,2818,2860
+StoneIceBoulder3,6382,6392,2760,2770
+IceThorn4,6477,6493,2886,2912
+IceThorn2,6481,6493,2791,2801
+RLCraft_SmallUndergroundSkeleton,6462,6470,2762,2770
+RLCraft_LargeUndergroundTown,6436,6549,2947,3084
+P_Tent,6523,6532,2827,2836

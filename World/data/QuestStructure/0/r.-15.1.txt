@@ -1,0 +1,2 @@
+RLCraft_BasicWitch,-8179,-8179,597,597
+RLCraft_UndergroundRuin1,-8182,-8173,594,603

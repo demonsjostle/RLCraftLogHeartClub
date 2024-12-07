@@ -1,0 +1,2 @@
+UndergroundTreeoid,-4049,-4023,2548,2571
+ShrineSmallFire,-4098,-4088,2446,2456

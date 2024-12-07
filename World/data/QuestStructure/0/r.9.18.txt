@@ -1,0 +1,4 @@
+StonePlantBoulder,5079,5089,9328,9338
+StonePlantMound2,5064,5076,9243,9256
+StonePlantMound,5083,5088,9364,9369
+StonePlantMound2,5056,5068,9257,9270

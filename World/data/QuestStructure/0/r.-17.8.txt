@@ -1,0 +1,7 @@
+SmallWoodenCottage2,-9055,-9047,4515,4523
+RLCraft_SmallUndergroundSkeleton,-8929,-8921,4473,4481
+RLCraft_DecentSkeleton,-9191,-9191,4417,4417
+RLCraft_UndergroundRuin3,-9193,-9185,4414,4422
+P_WizardTower,-9215,-9185,4300,4330
+RLCraft_DecentCaveSpider,-9118,-9118,4267,4267
+RLCraft_UndergroundRuin2,-9123,-9116,4262,4272

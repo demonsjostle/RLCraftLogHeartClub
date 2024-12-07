@@ -1,0 +1,9 @@
+DesertWatchtower,3765,3775,-9197,-9187
+RLCraft_SmallUndergroundSkeleton,4076,4084,-9172,-9164
+RLCraft_BasicSkeleton,4032,4032,-9132,-9132
+RLCraft_UndergroundRuin1,4029,4038,-9135,-9126
+ShrineSmallFire,4005,4015,-9104,-9094
+DesertBeacon,3996,4002,-9069,-9063
+RLCraft_DecentSkeleton,3914,3914,-9141,-9141
+RLCraft_UndergroundRuin2,3909,3919,-9143,-9136
+DesertWatchtower,3960,3970,-9049,-9039

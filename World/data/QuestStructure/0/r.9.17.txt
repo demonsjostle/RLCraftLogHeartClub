@@ -1,0 +1,6 @@
+StoneLeafMound,5077,5084,9194,9203
+SmallFortRuinsJapanese,5074,5120,9146,9192
+StonePlantMound3,5034,5045,9174,9183
+StonePlantMound2,5041,5054,9124,9136
+StonePlantMound4,5091,5098,9071,9078
+StonePlantMound3,5012,5023,9113,9122

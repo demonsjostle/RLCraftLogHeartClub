@@ -1,0 +1,22 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "4384975d-4e42-41e9-a98e-cfe0556cf63c",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "9717b5d9-b329-4b1e-98d1-44bc6045deaf",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "LogHeartClub"
+        }
+      }
+    }
+  }
+}

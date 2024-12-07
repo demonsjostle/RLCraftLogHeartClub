@@ -1,0 +1,4 @@
+StoneIceBoulder3,6247,6257,-9225,-9215
+StoneIceBoulder2,6326,6335,-9324,-9315
+RLCraft_BasicZombie,6305,6305,-9380,-9380
+RLCraft_UndergroundRuin1,6299,6308,-9383,-9374

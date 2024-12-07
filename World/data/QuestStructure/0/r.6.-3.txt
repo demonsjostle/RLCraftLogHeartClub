@@ -1,0 +1,5 @@
+UndergroundCultChamber,3316,3358,-1946,-1914
+RLCraft_BasicSpider,3403,3403,-1887,-1887
+RLCraft_UndergroundRuin1,3397,3406,-1890,-1881
+RLCraft_DecentCaveSpider,3579,3579,-1605,-1605
+RLCraft_UndergroundRuin2,3574,3584,-1610,-1603

@@ -1,0 +1,12 @@
+StonePlantMound2,-7584,-7572,-4105,-4092
+StonePlantBoulder,-7636,-7626,-4152,-4142
+StonePlantMound3,-7584,-7575,-4153,-4142
+RLCraft_SmallUndergroundSkeleton,-7469,-7461,-4156,-4148
+StoneLeafMound,-7526,-7517,-4204,-4197
+StonePlantMound3,-7333,-7324,-4214,-4203
+StonePlantMound4,-7656,-7649,-4229,-4222
+DinosaurSkull,-7582,-7571,-4258,-4239
+P_WitchDungeon,-7644,-7627,-4267,-4233
+DinosaurSkull,-7500,-7481,-4299,-4288
+StonePlantMound,-7456,-7451,-4285,-4280
+ShrineSmallEarth,-7511,-7499,-4329,-4317

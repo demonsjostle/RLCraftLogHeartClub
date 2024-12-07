@@ -1,0 +1,4 @@
+StonePlantMound2,-7072,-7059,7111,7123
+StonePlantMound4,-7051,-7044,6953,6960
+StonePlantMound3,-7021,-7012,7108,7119
+MonolythUnholy,-7006,-6992,6918,6932

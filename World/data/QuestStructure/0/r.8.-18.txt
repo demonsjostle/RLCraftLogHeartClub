@@ -1,0 +1,5 @@
+DesertBeacon,4186,4192,-9478,-9472
+DinosaurSkull,4194,4213,-9295,-9284
+RLCraft_Lyquix,4273,4289,-9239,-9223
+DesertWatchtower,4297,4307,-9427,-9417
+SmallClockworkSite,4306,4325,-9365,-9343

@@ -1,0 +1,3 @@
+RLCraft_BasicCaveSpider,1269,1269,-4977,-4977
+RLCraft_UndergroundRuin1,1266,1275,-4980,-4971
+ShrineSmallFire,1227,1237,-4795,-4785

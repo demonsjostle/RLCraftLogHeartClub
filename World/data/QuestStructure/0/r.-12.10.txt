@@ -1,0 +1,3 @@
+DinosaurSkeleton,-6513,-6504,5464,5510
+StonePlantMound3,-6442,-6433,5459,5470
+PeacefulCrypt,-6327,-6303,5470,5486

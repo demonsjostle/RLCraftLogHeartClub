@@ -1,0 +1,14 @@
+StonePlantMound2,-3635,-3622,-6808,-6796
+StonePlantMound3,-3613,-3602,-6764,-6755
+StonePlantMound4,-3661,-3654,-6737,-6730
+DinosaurSkeleton,-3723,-3714,-6910,-6864
+SmallWoodenCottage,-3727,-3716,-6840,-6832
+StonePlantMound3,-3697,-3688,-6755,-6744
+StonePlantMound2,-3702,-3689,-6732,-6720
+RLCraft_BasicCaveSpider,-3728,-3728,-6716,-6716
+RLCraft_UndergroundRuin1,-3731,-3722,-6722,-6713
+StonePlantMound2,-3745,-3733,-6935,-6922
+StonePlantMound1,-3713,-3707,-6974,-6968
+Tree_Oak_TheMushroomOak_v3,-3767,-3708,-7008,-6958
+WoodThornBig,-3760,-3747,-6892,-6879
+SmallWoodenCottage,-3789,-3778,-6711,-6703

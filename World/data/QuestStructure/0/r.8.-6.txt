@@ -1,0 +1,7 @@
+StonePlantBoulder,4484,4494,-3120,-3110
+StonePlantBoulder,4366,4376,-3084,-3074
+ClayWaterMound,4477,4484,-3152,-3144
+StonePlantBoulder,4493,4503,-3168,-3158
+StoneBoulder,4547,4556,-3179,-3170
+StoneBoulder,4592,4601,-3173,-3164
+RLCraft_SmallUndergroundSkeleton,4555,4563,-3181,-3173

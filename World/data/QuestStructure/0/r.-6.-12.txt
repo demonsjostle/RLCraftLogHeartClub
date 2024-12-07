@@ -1,0 +1,4 @@
+ClayWaterMound,-3113,-3106,-6189,-6181
+StonePlantMound1,-3126,-3120,-6335,-6329
+StoneLeafMound,-3236,-3227,-6252,-6245
+StoneLeafMound,-3138,-3129,-6337,-6330

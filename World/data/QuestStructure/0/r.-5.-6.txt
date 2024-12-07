@@ -1,0 +1,9 @@
+P_Lighthouse,-3069,-3032,-3116,-3076
+StoneMazePath,-3070,-3068,-3247,-3245
+StoneMazePath,-3070,-3068,-3235,-3233
+StoneMazeEndChest,-3070,-3068,-3241,-3239
+StoneMazeEndChest,-3070,-3068,-3259,-3257
+StoneMazePath,-3070,-3068,-3232,-3230
+StoneMazeEndChest,-3070,-3068,-3238,-3236
+StoneMazePath,-3070,-3068,-3244,-3242
+StoneMazePath,-3070,-3068,-3229,-3227

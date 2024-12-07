@@ -1,0 +1,7 @@
+P_SmallShip,5452,5472,-6829,-6823
+RLCraft_DecentZombie,5488,5488,-6736,-6736
+RLCraft_UndergroundRuin2,5483,5490,-6741,-6731
+ShrineSmallAir,5599,5607,-6797,-6789
+UndergroundCultChamber,5607,5649,-6696,-6664
+RLCraft_BasicSpider,5453,5453,-7054,-7054
+RLCraft_UndergroundRuin1,5450,5459,-7060,-7051

@@ -1,0 +1,6 @@
+RLCraft_AgentStarbuck_WaterBase,3708,3725,6487,6499
+RLCraft_BasicSkeleton,3709,3709,6523,6523
+RLCraft_UndergroundRuin1,3703,3712,6520,6529
+RLCraft_PhilbosaurusRex,3633,3707,6599,6632
+StoneBoulder,3622,3631,6421,6430
+RLCraft_SmallUndergroundSkeleton,3592,3600,6633,6641

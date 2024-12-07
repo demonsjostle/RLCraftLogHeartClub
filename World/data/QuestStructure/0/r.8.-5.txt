@@ -1,0 +1,11 @@
+SmallAbandonedMine,4486,4501,-2969,-2944
+StonePlantMound,4519,4524,-2932,-2927
+StoneLeafMound,4535,4542,-3021,-3012
+StoneLeafMound,4465,4474,-2920,-2913
+StoneBoulder,4486,4495,-3040,-3031
+StoneLeafMound,4558,4565,-3045,-3036
+ClayWaterMound,4469,4477,-2882,-2875
+StonePlantMound,4423,4428,-2931,-2926
+StonePlantMound3,4597,4608,-3063,-3054
+StoneBoulder,4359,4368,-2949,-2940
+StonePlantMound4,4359,4366,-2920,-2913

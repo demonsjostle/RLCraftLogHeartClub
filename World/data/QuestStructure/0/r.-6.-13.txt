@@ -1,0 +1,12 @@
+StonePlantMound,-3573,-3568,-6800,-6795
+SmallWoodenCottage,-3569,-3558,-6782,-6774
+RLCraft_BasicZombie,-3506,-3506,-6812,-6812
+RLCraft_UndergroundRuin1,-3509,-3500,-6815,-6806
+RLCraft_DecentZombie,-3523,-3523,-6908,-6908
+RLCraft_UndergroundRuin2,-3528,-3518,-6913,-6906
+StoneBoulder,-3569,-3560,-6963,-6954
+AbandonedWoodTower,-3479,-3449,-6832,-6796
+StonePlantMound,-3486,-3481,-6925,-6920
+StonePlantMound2,-3493,-3480,-6960,-6948
+StoneLeafMound,-3506,-3499,-6674,-6665
+StonePlantMound4,-3424,-3417,-6911,-6904

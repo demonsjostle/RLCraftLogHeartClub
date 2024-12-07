@@ -1,0 +1,5 @@
+RLCraft_AgentStarbuck_WaterBase,9886,9903,5691,5703
+RLCraft_DecentCaveSpider,9871,9871,5767,5767
+RLCraft_UndergroundRuin2,9866,9876,5765,5772
+RLCraft_DecentZombie,10153,10153,5674,5674
+RLCraft_UndergroundRuin2,10151,10158,5669,5679

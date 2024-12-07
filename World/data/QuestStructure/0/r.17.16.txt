@@ -1,0 +1,3 @@
+Flagship,8992,9107,8298,8341
+RLCraft_DecentCaveSpider,8757,8757,8373,8373
+RLCraft_UndergroundRuin3,8752,8760,8371,8379

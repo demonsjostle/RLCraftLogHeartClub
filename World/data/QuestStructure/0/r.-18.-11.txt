@@ -1,0 +1,3 @@
+StoneLeafMound,-9250,-9243,-5941,-5932
+StonePlantMound3,-9221,-9212,-5881,-5870
+StoneLeafMound,-9273,-9264,-6122,-6115

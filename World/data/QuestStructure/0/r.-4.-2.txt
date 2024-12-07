@@ -1,0 +1,7 @@
+StoneIceBoulder2,-2087,-2078,-1045,-1036
+RLCraft_DecentWitch,-2071,-2071,-1072,-1072
+RLCraft_UndergroundRuin2,-2076,-2066,-1074,-1067
+StoneIceBoulder1,-2062,-2052,-1093,-1083
+RLCraft_DecentSpider,-2203,-2203,-1143,-1143
+RLCraft_UndergroundRuin3,-2208,-2200,-1145,-1137
+RLCraft_AgentStarbuck_VikingHouse,-2227,-2192,-1255,-1206

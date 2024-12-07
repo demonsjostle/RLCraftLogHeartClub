@@ -1,0 +1,10 @@
+VillageSavannaStonemason,9780,9795,5401,5417
+VillageLargeLibrary,9780,9799,5420,5440
+VillageMarketplace,9729,9743,5428,5442
+VillageMarketplace,9729,9743,5428,5442
+P_Village2Story,9728,9734,5406,5419
+P_VillageFarmhouse,9750,9762,5415,5427
+VillageSavannaLibrary,9762,9772,5398,5409
+RLCraft_UndergroundFarm,10167,10210,5594,5636
+VillageTriplets,9750,9764,5367,5381
+RLCraft_SmallUndergroundSkeleton,9951,9959,5266,5274

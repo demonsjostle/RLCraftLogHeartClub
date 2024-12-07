@@ -1,0 +1,4 @@
+RLCraft_DecentZombie,6122,6122,-9285,-9285
+RLCraft_UndergroundRuin2,6120,6127,-9290,-9280
+StoneIceBoulder2,6132,6141,-9384,-9375
+IceThorn,6107,6122,-9399,-9373

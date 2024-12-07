@@ -1,0 +1,9 @@
+RLCraft_PlainsCampRuined,-9463,-9424,9725,9770
+SmallOutpost,-9322,-9300,9790,9820
+StonePlantMound,-9464,-9459,9903,9908
+StonePlantMound2,-9226,-9214,9824,9837
+RLCraft_DecentZombie,-9301,-9301,9921,9921
+RLCraft_UndergroundRuin2,-9306,-9296,9916,9923
+SmallWoodenCottage,-9229,-9218,9856,9864
+StonePlantMound1,-9241,-9235,9894,9900
+StonePlantBoulder,-9467,-9457,9968,9978

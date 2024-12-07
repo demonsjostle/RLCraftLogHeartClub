@@ -1,0 +1,2 @@
+RLCraft_DecentCaveSpider,1808,1808,542,542
+RLCraft_UndergroundRuin3,1806,1814,537,545

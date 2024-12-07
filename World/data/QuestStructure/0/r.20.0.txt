@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,10332,10340,506,514
+P_MayanTemple3,10249,10293,321,374

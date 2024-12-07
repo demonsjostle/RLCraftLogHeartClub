@@ -1,0 +1,14 @@
+StonePlantBoulder,-2583,-2573,-8637,-8627
+StoneBoulder,-2588,-2579,-8619,-8610
+ClayWaterMound,-2698,-2691,-8580,-8572
+P_Crater,-2799,-2716,-8689,-8613
+StoneLeafMound,-2685,-2678,-8517,-8508
+RLCraft_DecentWitch,-2773,-2773,-8608,-8608
+RLCraft_UndergroundRuin2,-2778,-2768,-8610,-8603
+PeacefulCrypt,-2817,-2793,-8568,-8552
+StoneBoulder,-2790,-2781,-8555,-8546
+StoneBoulder,-2620,-2611,-8503,-8494
+ShrineSmallAir,-2776,-2768,-8478,-8470
+PirateChest,-2740,-2736,-8484,-8480
+StonePlantMound1,-2682,-2676,-8413,-8407
+StonePlantMound,-2699,-2694,-8398,-8393

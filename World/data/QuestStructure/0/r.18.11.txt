@@ -1,0 +1,4 @@
+ShrineSmallFire,9693,9703,5806,5816
+RLCraft_DecentZombie,9613,9613,5824,5824
+RLCraft_UndergroundRuin2,9608,9615,5819,5829
+RLCraft_SmallUndergroundSkeleton,9670,9678,5909,5917

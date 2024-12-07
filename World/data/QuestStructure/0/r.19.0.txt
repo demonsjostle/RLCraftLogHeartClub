@@ -1,0 +1,4 @@
+RLCraft_BasicSpider,10219,10219,432,432
+RLCraft_UndergroundRuin1,10216,10225,429,438
+RLCraft_SmallUndergroundSkeleton,10163,10171,464,472
+P_Crater,10072,10148,365,448

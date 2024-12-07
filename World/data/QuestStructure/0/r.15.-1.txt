@@ -1,0 +1,12 @@
+StonePlantMound,7856,7861,-554,-549
+PeacefulCrypt,7829,7853,-579,-563
+RLCraft_BasicZombie,7790,7790,-592,-592
+RLCraft_UndergroundRuin1,7784,7793,-595,-586
+RLCraft_DecentZombie,7921,7921,-639,-639
+RLCraft_UndergroundRuin3,7916,7924,-645,-637
+SmallAbandonedMine,7823,7838,-648,-623
+StonePlantBoulder,7997,8007,-556,-546
+RLCraft_DecentZombie,7977,7977,-651,-651
+RLCraft_UndergroundRuin3,7974,7982,-653,-645
+StonePlantMound1,8059,8065,-533,-527
+StonePlantMound1,7719,7725,-721,-715

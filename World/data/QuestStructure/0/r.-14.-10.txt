@@ -1,0 +1,14 @@
+IceThorn4,-7683,-7657,-5352,-5336
+IceThorn1,-7635,-7619,-5189,-5168
+IceThorn2,-7593,-7581,-5150,-5140
+UndergroundTreeoid,-7587,-7561,-5311,-5288
+ShrineSmallFire,-7528,-7518,-5283,-5273
+StonePlantMound2,-7477,-7465,-5363,-5350
+StonePlantMound1,-7459,-7453,-5372,-5366
+StonePlantMound3,-7444,-7435,-5259,-5248
+RLCraft_BasicCaveSpider,-7640,-7640,-5579,-5579
+RLCraft_UndergroundRuin1,-7646,-7637,-5582,-5573
+RLCraft_BasicCaveSpider,-7513,-7513,-5601,-5601
+RLCraft_UndergroundRuin1,-7516,-7507,-5604,-5595
+DinosaurSkull,-7665,-7646,-5618,-5607
+ShrineSmallFire,-7524,-7514,-5624,-5614

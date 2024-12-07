@@ -1,0 +1,9 @@
+RLCraft_DecentSpider,-2509,-2509,-8648,-8648
+RLCraft_UndergroundRuin3,-2512,-2504,-8654,-8646
+StonePlantMound3,-2529,-2518,-8567,-8558
+StonePlantMound4,-2451,-2444,-8509,-8502
+RLCraft_DecentSkeleton,-2494,-2494,-8474,-8474
+RLCraft_UndergroundRuin3,-2496,-2488,-8479,-8471
+AbandonedWoodTower,-2455,-2425,-8706,-8670
+StonePlantMound3,-2399,-2390,-8689,-8678
+DinosaurSkeleton,-2418,-2409,-8478,-8432

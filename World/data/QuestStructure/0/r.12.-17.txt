@@ -1,0 +1,12 @@
+StoneIceBoulder2,6262,6271,-9183,-9174
+RLCraft_SmallUndergroundSkeleton,6284,6292,-9173,-9165
+StoneIceBoulder2,6155,6164,-9178,-9169
+DinosaurSkull,6323,6334,-9139,-9120
+StoneIceBoulder3,6356,6366,-9087,-9077
+StoneIceBoulder3,6168,6178,-9083,-9073
+RLCraft_BasicSpider,6331,6331,-8986,-8986
+RLCraft_UndergroundRuin1,6325,6334,-8992,-8983
+StoneIceBoulder3,6302,6312,-8978,-8968
+MeteorSite,6344,6359,-8972,-8942
+StoneIceBoulder3,6323,6333,-8955,-8945
+StoneIceBoulder,6227,6236,-8936,-8926

@@ -1,0 +1,11 @@
+ShrineSmallAir,2542,2550,20,28
+StoneBoulder,2501,2510,13,22
+RLCraft_BasicCaveSpider,2508,2508,54,54
+RLCraft_UndergroundRuin1,2505,2514,48,57
+StonePlantMound4,2507,2514,56,63
+RLCraft_DecentWitch,2460,2460,44,44
+RLCraft_UndergroundRuin2,2455,2462,39,49
+StonePlantMound4,2382,2389,158,165
+StonePlantBoulder,2063,2073,456,466
+ShrineSmallWater,2164,2172,474,482
+SmallWoodenCottage2,2104,2112,499,507

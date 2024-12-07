@@ -1,0 +1,9 @@
+RLCraft_DecentSkeleton,3883,3883,-3070,-3070
+RLCraft_UndergroundRuin3,3881,3889,-3073,-3065
+StonePlantMound4,3844,3851,-3070,-3063
+StonePlantMound4,3900,3907,-3023,-3016
+DinosaurSkull,4009,4028,-3035,-3024
+MysticalTree1,3838,3851,-2923,-2912
+P_RuinedHouse,3603,3628,-2840,-2823
+StoneBoulder,3665,3674,-2816,-2807
+RLCraft_UndergroundFarm,3833,3875,-2816,-2773

@@ -1,0 +1,7 @@
+StonePlantMound,-2615,-2610,3033,3038
+ElvenPond,-2611,-2582,3055,3085
+ClayWaterMound,-2664,-2656,2999,3006
+StonePlantBoulder,-2611,-2601,2903,2913
+SmallFortRuins,-2650,-2620,2880,2912
+Tree_Oak_TheMushroomOak_v3,-2599,-2549,2808,2867
+BrickHenge,-2671,-2655,2826,2842

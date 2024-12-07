@@ -1,0 +1,10 @@
+BrickHenge,2800,2816,-1827,-1811
+RLCraft_DecentSpider,2721,2721,-1840,-1840
+RLCraft_UndergroundRuin2,2716,2726,-1842,-1835
+SmallOutpost,2730,2760,-1784,-1762
+StonePlantBoulder,2821,2831,-1914,-1904
+DinosaurSkull,2690,2701,-1860,-1841
+RLCraft_BasicSkeleton,2929,2929,-1710,-1710
+RLCraft_UndergroundRuin1,2926,2935,-1716,-1707
+StoneLeafMound,2798,2805,-1669,-1660
+StonePlantMound1,2980,2986,-1784,-1778

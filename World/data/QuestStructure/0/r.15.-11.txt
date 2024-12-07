@@ -1,0 +1,3 @@
+DinosaurSkull,8097,8108,-6069,-6050
+RLCraft_SmallUndergroundSkeleton,8029,8037,-5957,-5949
+SmallWoodenCottage,7946,7957,-6126,-6118

@@ -1,0 +1,9 @@
+ShrineSmallEarth,9538,9550,-6626,-6614
+StoneBoulder,9580,9589,-6608,-6599
+StonePlantMound4,9530,9537,-6599,-6592
+StonePlantBoulder,9400,9410,-6576,-6566
+StonePlantMound1,9516,9522,-6585,-6579
+ShrineSmallEarth,9562,9574,-6585,-6573
+StonePlantMound3,9468,9477,-6541,-6530
+RLCraft_DecentSkeleton,9316,9316,-6519,-6519
+RLCraft_UndergroundRuin2,9311,9321,-6521,-6514

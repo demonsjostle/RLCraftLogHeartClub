@@ -1,0 +1,9 @@
+SmallWoodenCottage2,8076,8084,9008,9016
+P_LargeShip,8098,8158,9078,9096
+P_VillageHouse,7924,7933,8892,8903
+RLCraft_DecentWitch,7983,7983,8790,8790
+RLCraft_UndergroundRuin3,7978,7986,8784,8792
+VillageWoodMill,7912,7925,8918,8934
+P_TreeDungeon,7901,7943,8991,9036
+RLCraft_DecentSpider,8068,8068,8764,8764
+RLCraft_UndergroundRuin2,8063,8073,8759,8766

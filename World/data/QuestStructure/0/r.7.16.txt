@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,3600,3608,8251,8259
+SmallOutpost,3609,3631,8381,8411
+StonePlantMound,3694,3699,8530,8535
+RLCraft_DecentZombie,3727,3727,8416,8416
+RLCraft_UndergroundRuin2,3722,3732,8411,8418

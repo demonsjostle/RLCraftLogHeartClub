@@ -1,0 +1,5 @@
+RLCraft_DecentSpider,4601,4601,5301,5301
+RLCraft_UndergroundRuin3,4596,4604,5295,5303
+RLCraft_DecentSpider,4579,4579,5244,5244
+RLCraft_UndergroundRuin2,4574,4584,5239,5246
+DinosaurSkeleton,4582,4591,5349,5395

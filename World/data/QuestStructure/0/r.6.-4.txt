@@ -1,0 +1,6 @@
+RLCraft_BasicZombie,3406,3406,-2097,-2097
+RLCraft_UndergroundRuin1,3400,3409,-2103,-2094
+RLCraft_DecentSkeleton,3448,3448,-2101,-2101
+RLCraft_UndergroundRuin3,3443,3451,-2103,-2095
+StoneBoulder,3334,3343,-2154,-2145
+StonePlantMound,3344,3349,-2177,-2172

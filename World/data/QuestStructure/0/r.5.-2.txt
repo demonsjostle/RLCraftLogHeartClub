@@ -1,0 +1,8 @@
+StoneBoulder,2940,2949,-1416,-1407
+StonePlantBoulder,2976,2986,-1395,-1385
+SpiderPit,2939,2949,-1342,-1333
+SmallAbandonedMine,2867,2892,-1347,-1332
+StoneLeafMound,2965,2972,-1300,-1291
+StonePlantMound1,3038,3044,-1286,-1280
+P_WitchDungeon,2829,2863,-1281,-1264
+RLCraft_SmallUndergroundSkeleton,2831,2839,-1207,-1199

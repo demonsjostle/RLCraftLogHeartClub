@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,9743,9743,-6855,-6855
+RLCraft_UndergroundRuin2,9738,9748,-6860,-6853
+StoneBoulder,9771,9780,-6911,-6902
+StonePlantMound,9919,9924,-6782,-6777

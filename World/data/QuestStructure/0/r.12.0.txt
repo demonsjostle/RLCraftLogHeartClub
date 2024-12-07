@@ -1,0 +1,4 @@
+StoneBoulder,6534,6543,432,441
+RLCraft_AgentStarbuck_WaterBase,6455,6472,389,401
+RLCraft_DecentSpider,6571,6571,274,274
+RLCraft_UndergroundRuin2,6566,6576,272,279

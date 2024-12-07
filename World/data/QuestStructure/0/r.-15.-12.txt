@@ -1,0 +1,8 @@
+StoneIceBoulder,-8163,-8153,-6538,-6529
+StoneIceBoulder,-8156,-8146,-6356,-6347
+StoneIceBoulder1,-8195,-8185,-6561,-6551
+RLCraft_BasicSkeleton,-8096,-8096,-6444,-6444
+RLCraft_UndergroundRuin1,-8102,-8093,-6450,-6441
+StoneIceBoulder,-8117,-8108,-6605,-6595
+StoneIceBoulder,-8133,-8123,-6606,-6597
+AbandonedWoodTower,-8153,-8123,-6645,-6609

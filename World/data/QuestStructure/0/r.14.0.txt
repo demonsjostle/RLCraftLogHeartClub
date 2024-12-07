@@ -1,0 +1,12 @@
+SmallAbandonedMine,7243,7258,-436,-411
+StoneBoulder,7336,7345,-493,-484
+StoneBoulder,7181,7190,-490,-481
+StonePlantMound,7338,7343,-448,-443
+StoneBoulder,7262,7271,-389,-380
+StoneLeafMound,7191,7200,-407,-400
+StoneLeafMound,7213,7220,-370,-361
+StonePlantBoulder,7363,7373,-438,-428
+WitchPillars,7274,7291,-361,-344
+MeteorSite,7388,7403,-476,-446
+StonePlantMound,7379,7384,-415,-410
+StoneBoulder,7380,7389,-440,-431

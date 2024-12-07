@@ -1,0 +1,11 @@
+ShrineSmallFire,3781,3791,-9416,-9406
+RLCraft_DecentWitch,3765,3765,-9469,-9469
+RLCraft_UndergroundRuin2,3760,3767,-9474,-9464
+DesertWatchtower,3975,3985,-9517,-9507
+SmallClockworkSite,3696,3718,-9451,-9432
+RLCraft_BasicZombie,3695,3695,-9313,-9313
+RLCraft_UndergroundRuin1,3692,3701,-9316,-9307
+UndergroundTreeoid,3668,3694,-9428,-9405
+DinosaurSkull,3665,3684,-9455,-9444
+ShrineSmallFire,4074,4084,-9283,-9273
+DesertWatchtower,4086,4096,-9222,-9212

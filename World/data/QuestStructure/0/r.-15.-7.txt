@@ -1,0 +1,14 @@
+StonePlantMound1,-7704,-7698,-3937,-3931
+SmallWoodenCottage,-8155,-8147,-4031,-4020
+StoneLeafMound,-8078,-8069,-4024,-4017
+StonePlantMound,-8074,-8069,-3987,-3982
+RLCraft_SmallTown,-8110,-8039,-4013,-3938
+RLCraft_DecentCaveSpider,-8161,-8161,-3896,-3896
+RLCraft_UndergroundRuin2,-8166,-8156,-3901,-3894
+RLCraft_BasicZombie,-8130,-8130,-3870,-3870
+RLCraft_UndergroundRuin1,-8136,-8127,-3876,-3867
+ShrineSmallAir,-8048,-8040,-3942,-3934
+StoneBoulder,-8027,-8018,-3919,-3910
+VillageTriplets,-8019,-8005,-3882,-3868
+P_VillageFarmhouse,-7994,-7982,-3906,-3894
+ThreeTowers,-7991,-7959,-3882,-3851

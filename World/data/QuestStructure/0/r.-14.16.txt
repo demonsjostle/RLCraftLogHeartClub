@@ -1,0 +1,7 @@
+RLCraft_DecentSpider,-7667,-7667,8516,8516
+RLCraft_UndergroundRuin3,-7673,-7665,8513,8521
+P_VillageFarmhouse,-7591,-7579,8410,8422
+StoneLeafMound,-7590,-7583,8418,8427
+StonePlantMound4,-7534,-7527,8516,8523
+RLCraft_BasicWitch,-7467,-7467,8397,8397
+RLCraft_UndergroundRuin1,-7470,-7461,8394,8403

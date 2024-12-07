@@ -1,0 +1,44 @@
+{
+  "nameCache:9": {
+    "0:10": {
+      "name:8": "immedicc",
+      "isOP:1": 0,
+      "uuid:8": "ffd57440-9675-3cc0-b482-2a295525588e"
+    },
+    "1:10": {
+      "name:8": "UZENTREXA",
+      "isOP:1": 0,
+      "uuid:8": "60e2eadc-18cf-3a14-8143-75121935a9e2"
+    },
+    "2:10": {
+      "name:8": "Bangkapi",
+      "isOP:1": 0,
+      "uuid:8": "56d1841b-2305-329d-8076-a5d568ef43fb"
+    },
+    "3:10": {
+      "name:8": "immedicc",
+      "isOP:1": 0,
+      "uuid:8": "4242a637-41cb-42d1-b0cc-b39d47b94a22"
+    },
+    "4:10": {
+      "name:8": "Bangkapi",
+      "isOP:1": 0,
+      "uuid:8": "6f4a4556-6c9f-4b9e-b67a-28ce709bcf37"
+    },
+    "5:10": {
+      "name:8": "UZENTREXA",
+      "isOP:1": 0,
+      "uuid:8": "4384975d-4e42-41e9-a98e-cfe0556cf63c"
+    },
+    "6:10": {
+      "name:8": "demonsjostle",
+      "isOP:1": 1,
+      "uuid:8": "aee8ff22-3286-3cf4-b9c7-8f96272e6309"
+    },
+    "7:10": {
+      "name:8": "demonsjostle",
+      "isOP:1": 1,
+      "uuid:8": "9717b5d9-b329-4b1e-98d1-44bc6045deaf"
+    }
+  }
+}

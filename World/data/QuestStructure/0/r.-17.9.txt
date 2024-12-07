@@ -1,0 +1,2 @@
+DesertBeacon,-9200,-9194,4645,4651
+RLCraft_PlainsCamp,-8965,-8926,4704,4750

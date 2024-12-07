@@ -1,0 +1,4 @@
+RLCraft_DecentCaveSpider,-9268,-9268,5553,5553
+RLCraft_UndergroundRuin3,-9270,-9262,5548,5556
+FallenPalmTree,-9280,-9270,5548,5552
+SmallClockworkSite,-9265,-9246,5373,5395

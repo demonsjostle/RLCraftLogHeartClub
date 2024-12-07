@@ -1,0 +1,2 @@
+AbandonedWoodTower,4678,4714,-2383,-2353
+StonePlantMound4,4606,4613,-2429,-2422

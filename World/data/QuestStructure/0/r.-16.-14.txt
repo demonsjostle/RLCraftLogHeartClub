@@ -1,0 +1,6 @@
+StonePlantMound4,-8690,-8683,-7230,-7223
+RLCraft_DecentWitch,-8691,-8691,-7272,-7272
+RLCraft_UndergroundRuin2,-8696,-8686,-7274,-7267
+DinosaurSkull,-8690,-8671,-7268,-7257
+RLCraft_DecentWitch,-8694,-8694,-7329,-7329
+RLCraft_UndergroundRuin2,-8699,-8689,-7331,-7324

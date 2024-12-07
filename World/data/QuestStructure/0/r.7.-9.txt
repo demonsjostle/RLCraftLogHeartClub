@@ -1,0 +1,5 @@
+StonePlantMound,3617,3622,-4653,-4648
+StonePlantMound2,3701,3713,-4671,-4658
+StonePlantBoulder,3715,3725,-4801,-4791
+MeteorSite,3666,3681,-4879,-4849
+MysticalTree,3707,3723,-4890,-4875

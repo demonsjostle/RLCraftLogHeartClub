@@ -1,0 +1,7 @@
+UndergroundCultChamber,-7787,-7745,-5357,-5325
+RLCraft_SmallUndergroundSkeleton,-7803,-7795,-5367,-5359
+DinosaurSkull,-7866,-7855,-5243,-5224
+UndergroundCultChamber,-7816,-7784,-5487,-5445
+RLCraft_UndergroundFarm,-7862,-7820,-5199,-5156
+RLCraft_NetherPortal1_Chiom,-7702,-7671,-5510,-5474
+MeteorSite,-7774,-7759,-5523,-5493

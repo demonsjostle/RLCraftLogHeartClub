@@ -1,0 +1,5 @@
+StoneLeafMound,3522,3531,-4583,-4576
+StoneLeafMound,3433,3442,-4588,-4581
+RLCraft_DecentZombie,3423,3423,-4542,-4542
+RLCraft_UndergroundRuin3,3420,3428,-4548,-4540
+ClayWaterMound1,3146,3156,-4574,-4563

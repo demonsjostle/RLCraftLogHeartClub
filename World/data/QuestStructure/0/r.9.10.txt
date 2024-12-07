@@ -1,0 +1,10 @@
+SmallWoodenCottage2,4772,4780,5359,5367
+RLCraft_DecentSpider,4831,4831,5238,5238
+RLCraft_UndergroundRuin2,4826,4836,5236,5243
+StonePlantMound,4691,4696,5191,5196
+RLCraft_SmallUndergroundSkeleton,4688,4696,5177,5185
+RLCraft_SmallUndergroundSkeleton,4846,4854,5368,5376
+ForestBeacon,4822,4830,5145,5153
+StoneLeafMound,4633,4642,5145,5152
+RLCraft_SmallUndergroundSkeleton,4684,4692,5428,5436
+SmallOutpost,4912,4934,5277,5307

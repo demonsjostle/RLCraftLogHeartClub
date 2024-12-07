@@ -1,0 +1,6 @@
+StonePlantMound3,-2573,-2564,-8790,-8779
+RLCraft_SmallUndergroundSkeleton,-2586,-2578,-8985,-8977
+DinosaurSkull,-2568,-2557,-8879,-8860
+WoodWallRemains,-2647,-2619,-8969,-8961
+ShrineSmallFire,-2667,-2657,-9104,-9094
+StoneLeafMound,-2741,-2734,-8962,-8953

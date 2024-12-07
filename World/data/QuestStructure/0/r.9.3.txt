@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,4705,4713,1546,1554
+StonePlantMound4,4661,4668,1929,1936
+StoneBoulder,4715,4724,1928,1937
+BrickHenge,4713,4729,1967,1983
+StonePlantMound,4716,4721,2037,2042

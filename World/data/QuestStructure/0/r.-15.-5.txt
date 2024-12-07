@@ -1,0 +1,13 @@
+PeacefulCrypt,-8148,-8124,-2814,-2798
+P_Tent,-8178,-8169,-3024,-3015
+UndergroundTreeoid,-8108,-8082,-3049,-3026
+P_Tent,-8040,-8031,-3008,-2999
+DinosaurSkull,-8049,-8030,-3026,-3015
+SmallAbandonedMine,-7901,-7886,-2982,-2957
+ShrineSmallAir,-7873,-7865,-2941,-2933
+StoneIceBoulder,-7859,-7850,-2865,-2855
+DinosaurSkull,-7867,-7848,-3064,-3053
+ShrineSmallAir,-7832,-7824,-2907,-2899
+StoneIceBoulder1,-8021,-8011,-2745,-2735
+RLCraft_SmallUndergroundSkeleton,-8009,-8001,-2718,-2710
+StoneIceBoulder,-7691,-7681,-3019,-3010

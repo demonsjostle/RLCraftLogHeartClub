@@ -1,0 +1,8 @@
+SmallWoodenCottage1,5247,5258,9162,9168
+RLCraft_BasicSkeleton,5215,5215,9142,9142
+RLCraft_UndergroundRuin1,5209,5218,9136,9145
+SmallWoodenCottage,5116,5124,9133,9144
+RLCraft_SmallUndergroundSkeleton,5277,5285,9090,9098
+ClayWaterMound,5354,5362,9086,9093
+SmallAbandonedMine,5337,5362,9042,9057
+StonePlantMound,5221,5226,9056,9061

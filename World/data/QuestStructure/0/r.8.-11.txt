@@ -1,0 +1,8 @@
+StonePlantMound2,4117,4129,-5982,-5969
+StonePlantBoulder,4208,4218,-5928,-5918
+StonePlantMound,4187,4192,-5820,-5815
+StonePlantMound,4122,4127,-5741,-5736
+DinosaurSkull,4232,4251,-5938,-5927
+RLCraft_DecentSkeleton,4255,4255,-5963,-5963
+RLCraft_UndergroundRuin3,4249,4257,-5966,-5958
+DinosaurSkull,4219,4238,-5671,-5660

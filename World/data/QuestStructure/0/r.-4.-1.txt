@@ -1,0 +1,4 @@
+RLCraft_WilySmile,-2119,-2104,-954,-939
+ShrineSmallWater,-2169,-2161,-963,-955
+RLCraft_DecentWitch,-2218,-2218,-1015,-1015
+RLCraft_UndergroundRuin3,-2220,-2212,-1020,-1012

@@ -1,0 +1,5 @@
+RLCraft_DecentSkeleton,5680,5680,-3586,-3586
+RLCraft_UndergroundRuin2,5675,5685,-3588,-3581
+RLCraft_DecentSkeleton,5669,5669,-3765,-3765
+RLCraft_UndergroundRuin2,5664,5671,-3770,-3760
+SmallWoodenCottage,5774,5785,-3792,-3784

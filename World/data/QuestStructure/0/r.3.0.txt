@@ -1,0 +1,6 @@
+RLCraft_DecentZombie,1793,1793,345,345
+RLCraft_UndergroundRuin3,1787,1795,342,350
+ShrineSmallFire,1662,1672,321,331
+ShrineSmallWater,1778,1786,213,221
+P_IslandCity,1631,1965,169,475
+StoneLeafMound,1957,1964,158,167

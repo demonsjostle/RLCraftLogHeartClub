@@ -1,0 +1,4 @@
+SpiderPit,7937,7947,-431,-422
+RLCraft_DecentZombie,7839,7839,-367,-367
+RLCraft_UndergroundRuin2,7834,7841,-372,-362
+RLCraft_SmallUndergroundSkeleton,7695,7703,-455,-447

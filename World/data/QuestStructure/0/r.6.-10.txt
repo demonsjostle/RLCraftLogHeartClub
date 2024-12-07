@@ -1,0 +1,2 @@
+StonePlantBoulder,3218,3228,-5345,-5335
+Tree_Oak_TheMushroomOak_v3,3177,3236,-5358,-5308

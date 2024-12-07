@@ -1,0 +1,6 @@
+DinosaurSkull,-8828,-8809,5165,5176
+UnnaturalCrater,-8917,-8877,5261,5301
+RLCraft_DecentSkeleton,-9013,-9013,5519,5519
+RLCraft_UndergroundRuin2,-9015,-9008,5514,5524
+VillageMarketplace,-9130,-9116,5600,5614
+P_VillageFarmhouse,-9159,-9147,5607,5619

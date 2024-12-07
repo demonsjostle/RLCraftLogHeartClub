@@ -1,0 +1,15 @@
+StonePlantMound4,3255,3262,9845,9852
+StoneBoulder,3232,3241,9843,9852
+SmallAbandonedOutpost,3217,3247,9933,9955
+StonePlantBoulder,3216,3226,9825,9835
+StoneLeafMound,3202,3211,9987,9994
+StonePlantMound4,3212,3219,9992,9999
+StonePlantBoulder,3139,3149,9952,9962
+UndergroundCrypt,3331,3359,9768,9782
+P_SpookyHouse,3413,3439,10001,10041
+RLCraft_SmallUndergroundSkeleton,3231,3239,10072,10080
+ClayWaterMound1,3473,3483,10032,10043
+PeacefulCrypt,3108,3132,9991,10007
+RLCraft_DecentWitch,3100,3100,9845,9845
+RLCraft_UndergroundRuin3,3094,3102,9840,9848
+DinosaurSkeleton,3085,3131,9906,9915

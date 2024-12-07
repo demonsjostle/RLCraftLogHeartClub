@@ -1,0 +1,16 @@
+StoneBoulder,8927,8936,9683,9692
+StonePlantMound4,8962,8969,9724,9731
+StonePlantBoulder,9006,9016,9618,9628
+StonePlantMound1,8846,8852,9640,9646
+StonePlantMound,8792,8797,9685,9690
+StonePlantMound,8886,8891,9555,9560
+StoneLeafMound,8902,8911,9521,9528
+StonePlantBoulder,9026,9036,9563,9573
+RLCraft_DecentSkeleton,8893,8893,9516,9516
+RLCraft_UndergroundRuin2,8888,8895,9511,9521
+StonePlantBoulder,8838,8848,9530,9540
+RLCraft_PlainsCamp,8759,8805,9537,9576
+ClayWaterMound1,8917,8927,9479,9490
+StonePlantMound3,8810,8821,9482,9491
+UndergroundCrypt,9090,9118,9640,9654
+StonePlantBoulder,8930,8940,9428,9438

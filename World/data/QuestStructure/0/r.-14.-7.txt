@@ -1,0 +1,11 @@
+StoneBoulder,-7527,-7518,-3946,-3937
+UndergroundCrypt,-7624,-7610,-3954,-3926
+StonePlantMound2,-7593,-7581,-3975,-3962
+StonePlantMound4,-7516,-7509,-3831,-3824
+StoneBoulder,-7649,-7640,-3852,-3843
+StoneBoulder,-7543,-7534,-4010,-4001
+StonePlantBoulder,-7658,-7648,-3985,-3975
+StoneLeafMound,-7598,-7589,-4042,-4035
+StonePlantMound,-7495,-7490,-4044,-4039
+StoneLeafMound,-7668,-7661,-4016,-4007
+StonePlantMound1,-7673,-7667,-3799,-3793

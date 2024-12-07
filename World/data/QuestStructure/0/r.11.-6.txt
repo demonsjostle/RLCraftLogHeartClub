@@ -1,0 +1,5 @@
+ShrineSmallFire,5654,5664,-3509,-3499
+StonePlantMound1,5842,5848,-3506,-3500
+StoneLeafMound,5838,5845,-3498,-3489
+RLCraft_RuinsParkour,5833,5925,-3569,-3469
+BrickHenge,5785,5801,-3378,-3362

@@ -1,0 +1,8 @@
+RLCraft_DecentZombie,4044,4044,-5973,-5973
+RLCraft_UndergroundRuin3,4041,4049,-5975,-5967
+StonePlantBoulder,4025,4035,-5768,-5758
+StonePlantMound3,4041,4050,-5747,-5736
+StoneBoulder,3910,3919,-5898,-5889
+RLCraft_DecentZombie,3958,3958,-5663,-5663
+RLCraft_UndergroundRuin3,3952,3960,-5666,-5658
+RLCraft_SmallUndergroundSkeleton,4041,4049,-5661,-5653

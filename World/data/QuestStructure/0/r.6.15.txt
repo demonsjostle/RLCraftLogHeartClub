@@ -1,0 +1,10 @@
+StonePlantBoulder,3293,3303,8175,8185
+StonePlantBoulder,3344,3354,8155,8165
+RLCraft_SmallUndergroundSkeleton,3234,3242,8169,8177
+StonePlantMound,3166,3171,8151,8156
+StonePlantMound3,3418,3427,8137,8148
+RLCraft_DecentWitch,3206,3206,8128,8128
+RLCraft_UndergroundRuin3,3200,3208,8125,8133
+StonePlantMound,3255,3260,8105,8110
+RLCraft_SmallUndergroundSkeleton,3401,3409,8103,8111
+RLCraft_SmallUndergroundSkeleton,3449,3457,8128,8136

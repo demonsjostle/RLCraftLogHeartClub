@@ -1,0 +1,10 @@
+StoneIceBoulder1,-2011,-2001,-1053,-1043
+StoneIceBoulder3,-2019,-2009,-1087,-1077
+DinosaurSkeleton,-2016,-1970,-1120,-1111
+StoneIceBoulder1,-1985,-1975,-1149,-1139
+DinosaurSkull,-2045,-2034,-1179,-1160
+StoneIceBoulder2,-1972,-1963,-1155,-1146
+P_Tent,-1884,-1875,-1230,-1221
+P_IceSkeletonLookout,-1869,-1859,-1141,-1131
+StoneIceBoulder,-1978,-1969,-1530,-1520
+ShrineSmallAir,-1776,-1768,-1458,-1450

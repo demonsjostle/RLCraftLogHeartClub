@@ -1,0 +1,11 @@
+StoneLeafMound,8184,8191,-6151,-6142
+StonePlantMound3,8186,8195,-6247,-6236
+StoneLeafMound,8137,8144,-6224,-6215
+StonePlantMound4,8137,8144,-6241,-6234
+P_VillageFarmhouse,8079,8091,-6167,-6155
+StonePlantMound3,8088,8097,-6239,-6228
+MeteorSite,8072,8087,-6302,-6272
+StonePlantMound,8036,8041,-6229,-6224
+StonePlantMound1,8038,8044,-6286,-6280
+CuboneSkull,7994,8052,-6226,-6165
+StoneBoulder,8004,8013,-6295,-6286

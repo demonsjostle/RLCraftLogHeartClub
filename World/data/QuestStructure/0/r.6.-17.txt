@@ -1,0 +1,16 @@
+RLCraft_DecentWitch,3286,3286,-8728,-8728
+RLCraft_UndergroundRuin2,3281,3291,-8730,-8723
+SmallWoodenCottage2,3305,3313,-8736,-8728
+ShrineSmallFire,3299,3309,-8797,-8787
+RLCraft_DecentWitch,3124,3124,-8804,-8804
+RLCraft_UndergroundRuin2,3122,3129,-8809,-8799
+VillageSavannaLibrary,3185,3195,-8855,-8844
+VillageForgeLarge,3216,3228,-8870,-8854
+SeasonsGreenhouse,3202,3212,-8855,-8843
+VillageSavannaKitchen,3238,3250,-8874,-8864
+P_VillageHouse,3238,3247,-8912,-8901
+RLCraft_Vineyard,3273,3293,-8892,-8864
+P_VillageFarmhouse,3257,3269,-8890,-8878
+VillageMarketplace,3217,3231,-8890,-8876
+VillageMarketplace,3217,3231,-8890,-8876
+VillageSavannaStonemason,3273,3288,-8912,-8896
