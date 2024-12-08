@@ -10,3 +10,14 @@ RLCraft_BasicSkeleton,9203,9203,-9170,-9170
 RLCraft_UndergroundRuin1,9200,9209,-9176,-9167
 RLCraft_BasicSpider,9141,9141,-9177,-9177
 RLCraft_UndergroundRuin1,9138,9147,-9183,-9174
+StoneBoulder,9015,9024,-8727,-8718
+StoneLeafMound,9168,9175,-8739,-8730
+BrickHenge,9022,9038,-8750,-8734
+StonePlantBoulder,9001,9011,-8735,-8725
+IceThorn,8918,8933,-8751,-8725
+MeteorSite,9179,9194,-8777,-8747
+StoneLeafMound,9055,9064,-8789,-8782
+RLCraft_SmallUndergroundSkeleton,9010,9018,-8907,-8899
+StonePlantMound1,9175,9181,-8938,-8932
+StonePlantMound1,9184,9190,-8998,-8992
+StonePlantMound3,9193,9204,-9020,-9011

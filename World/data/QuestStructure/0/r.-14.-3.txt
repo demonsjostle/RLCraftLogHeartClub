@@ -1,0 +1,6 @@
+SmallFortRuins,-7646,-7614,-1863,-1833
+RLCraft_DecentSkeleton,-7575,-7575,-1890,-1890
+RLCraft_UndergroundRuin3,-7578,-7570,-1896,-1888
+StonePlantMound1,-7559,-7553,-1826,-1820
+WoodWallRemains,-7539,-7511,-1935,-1927
+StonePlantMound1,-7499,-7493,-1797,-1791

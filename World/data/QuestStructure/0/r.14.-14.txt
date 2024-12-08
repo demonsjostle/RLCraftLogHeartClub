@@ -91,3 +91,7 @@ RLCraft_DecentZombie,7408,7408,-7415,-7415
 RLCraft_UndergroundRuin3,7406,7414,-7420,-7412
 StoneBoulder,7441,7450,-7199,-7190
 StonePlantMound1,7452,7458,-7184,-7178
+RLCraft_SmallUndergroundSkeleton,7377,7385,-7204,-7196
+StonePlantBoulder,7389,7399,-7259,-7249
+StonePlantMound1,7348,7354,-7263,-7257
+ElvenPond,7256,7286,-7287,-7258

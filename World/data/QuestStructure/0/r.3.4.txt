@@ -1,0 +1,9 @@
+RLCraft_BasicSkeleton,1890,1890,2249,2249
+RLCraft_UndergroundRuin1,1884,1893,2243,2252
+ShrineSmallFire,1962,1972,2456,2466
+RLCraft_DecentWitch,1834,1834,2518,2518
+RLCraft_UndergroundRuin3,1831,1839,2512,2520
+ClayWaterMound,1821,1829,2222,2229
+ShrineSmallAir,1800,1808,2207,2215
+ShrineSmallWater,1958,1966,2223,2231
+StoneBoulder,1781,1790,2180,2189

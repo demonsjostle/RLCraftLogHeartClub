@@ -1,0 +1,7 @@
+RLCraft_DecentZombie,-8597,-8597,-5611,-5611
+RLCraft_UndergroundRuin2,-8602,-8592,-5616,-5609
+StoneIceBoulder,-8388,-8379,-5567,-5557
+ShrineSmallAir,-8366,-8358,-5578,-5570
+DinosaurSkeleton,-8579,-8570,-5520,-5474
+RLCraft_BasicWitch,-8643,-8643,-5484,-5484
+RLCraft_UndergroundRuin1,-8646,-8637,-5487,-5478

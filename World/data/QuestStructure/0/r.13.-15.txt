@@ -1,0 +1,5 @@
+StoneLeafMound,7034,7043,-8055,-8048
+StonePlantMound4,7072,7079,-8154,-8147
+StonePlantMound,6931,6936,-8097,-8092
+StonePlantMound,7130,7135,-8033,-8028
+StonePlantMound4,7164,7171,-8009,-8002

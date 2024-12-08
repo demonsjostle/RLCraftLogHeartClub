@@ -1,0 +1,7 @@
+StoneIceBoulder,-4733,-4723,1141,1150
+RLCraft_SmallUndergroundSkeleton,-4654,-4646,1105,1113
+RLCraft_xKOSMOS42,-4739,-4713,1044,1073
+RLCraft_BasicCaveSpider,-4704,-4704,1259,1259
+RLCraft_UndergroundRuin1,-4707,-4698,1256,1265
+MeteorSite,-4803,-4788,1258,1288
+StoneIceBoulder,-4866,-4856,1195,1204

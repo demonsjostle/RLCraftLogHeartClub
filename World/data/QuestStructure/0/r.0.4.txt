@@ -1,0 +1,6 @@
+ClayWaterMound,194,202,2339,2346
+WoodThorn,192,203,2414,2425
+StoneLeafMound,231,238,2412,2421
+StonePlantMound4,194,201,2464,2471
+StonePlantMound1,282,288,2319,2325
+MonolythUnholy,280,294,2442,2456

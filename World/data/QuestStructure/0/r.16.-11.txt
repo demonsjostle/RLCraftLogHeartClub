@@ -5,3 +5,7 @@ StonePlantMound3,8189,8200,-6118,-6109
 StoneBoulder,8347,8356,-6148,-6139
 StonePlantMound1,8383,8389,-6144,-6138
 StonePlantMound4,8194,8201,-5985,-5978
+StonePlantMound4,8476,8483,-6131,-6124
+StonePlantMound4,8550,8557,-6082,-6075
+StonePlantMound3,8552,8563,-6034,-6025
+StonePlantMound,8584,8589,-6140,-6135

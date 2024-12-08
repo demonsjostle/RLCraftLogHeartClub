@@ -1,0 +1,4 @@
+RLCraft_AgentStarbuck_WaterBase,-5308,-5291,8481,8493
+ClayWaterMound1,-5272,-5261,8555,8565
+ShrineSmallWater,-5191,-5183,8460,8468
+ShrineSmallFire,-5148,-5138,8393,8403

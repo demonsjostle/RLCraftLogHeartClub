@@ -1,0 +1,14 @@
+StonePlantMound2,-4465,-4452,-8195,-8183
+DinosaurSkeleton,-4470,-4461,-8210,-8164
+P_Village2Story,-4413,-4400,-8183,-8177
+VillageTriplets,-4415,-4401,-8154,-8140
+VillageTriplets,-4415,-4401,-8154,-8140
+SeasonsGreenhouse,-4397,-4387,-8154,-8142
+VillageWoodMill,-4378,-4362,-8183,-8170
+StonePlantMound2,-4481,-4469,-8131,-8118
+P_VillageFarmhouse,-4368,-4356,-8154,-8142
+VillageMarketplace,-4378,-4364,-8135,-8121
+StonePlantMound2,-4605,-4592,-7923,-7911
+ClayWaterMound,-4551,-4544,-7796,-7788
+StoneBoulder,-4463,-4454,-7698,-7689
+WoodThorn,-4473,-4462,-7816,-7805

@@ -1,0 +1,9 @@
+ShrineSmallFire,9223,9233,-8373,-8363
+RLCraft_DecentZombie,9239,9239,-8297,-8297
+RLCraft_UndergroundRuin2,9234,9241,-8302,-8292
+StoneBoulder,9246,9255,-8375,-8366
+StonePlantBoulder,9251,9261,-8511,-8501
+StonePlantMound3,9278,9289,-8685,-8676
+StoneBoulder,9268,9277,-8552,-8543
+StoneBoulder,9335,9344,-8693,-8684
+SeasonsGreenhouse,9340,9350,-8574,-8562

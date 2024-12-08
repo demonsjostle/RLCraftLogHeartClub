@@ -1,0 +1,3 @@
+DesertWatchtower,8694,8704,5059,5069
+RLCraft_DecentZombie,8700,8700,5090,5090
+RLCraft_UndergroundRuin3,8698,8706,5085,5093

@@ -92,3 +92,7 @@ SmallAbandonedMine,-8792,-8777,-6586,-6561
 SmallAbandonedMine,-8859,-8844,-6252,-6227
 StonePlantMound2,-8724,-8712,-6603,-6590
 StoneBoulder,-8720,-8711,-6573,-6564
+StonePlantMound2,-8758,-8746,-6215,-6202
+RLCraft_DecentWitch,-8792,-8792,-6227,-6227
+RLCraft_UndergroundRuin2,-8797,-8787,-6232,-6225
+ClayWaterMound1,-8813,-8802,-6196,-6186

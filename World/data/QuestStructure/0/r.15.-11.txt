@@ -1,3 +1,17 @@
 DinosaurSkull,8097,8108,-6069,-6050
 RLCraft_SmallUndergroundSkeleton,8029,8037,-5957,-5949
 SmallWoodenCottage,7946,7957,-6126,-6118
+RLCraft_BasicWitch,8037,8037,-5830,-5830
+RLCraft_UndergroundRuin1,8034,8043,-5833,-5824
+RLCraft_SmallTown,7854,7925,-5939,-5864
+VillageInn,7769,7789,-6092,-6065
+P_VillageHouse2,7773,7790,-6140,-6123
+RLCraft_Vineyard,7753,7781,-6122,-6102
+P_VillageFarmhouse,7751,7763,-6092,-6080
+RLCraft_SmallUndergroundSkeleton,7755,7763,-6007,-5999
+SeasonsGreenhouse,7735,7745,-6092,-6080
+StonePlantMound3,7735,7744,-5932,-5921
+P_Village2Story,7719,7732,-6122,-6116
+VillageMarketplace,7714,7728,-6092,-6078
+VillageMarketplace,7714,7728,-6092,-6078
+StonePlantMound4,7693,7700,-5856,-5849

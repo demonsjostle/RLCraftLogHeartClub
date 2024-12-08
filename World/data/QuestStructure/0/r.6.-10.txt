@@ -1,2 +1,5 @@
 StonePlantBoulder,3218,3228,-5345,-5335
 Tree_Oak_TheMushroomOak_v3,3177,3236,-5358,-5308
+StonePlantMound3,3150,3161,-5128,-5119
+StonePlantMound3,3120,3129,-5158,-5147
+AbandonedWoodTower,3118,3154,-5208,-5178

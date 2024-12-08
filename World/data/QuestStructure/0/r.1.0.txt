@@ -2,3 +2,4 @@ RLCraft_BasicZombie,524,524,-217,-217
 RLCraft_UndergroundRuin1,521,530,-220,-211
 RLCraft_DecentZombie,528,528,119,119
 RLCraft_UndergroundRuin3,525,533,113,121
+StonePlantMound3,637,648,-425,-416

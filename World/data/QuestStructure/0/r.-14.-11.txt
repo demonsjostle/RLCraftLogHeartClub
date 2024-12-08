@@ -1,0 +1,4 @@
+MeteorSite,-7627,-7612,-6144,-6114
+MeteorSite,-7602,-7587,-6070,-6040
+BrickHenge,-7623,-7607,-5974,-5958
+RLCraft_SmallUndergroundSkeleton,-7646,-7638,-5955,-5947

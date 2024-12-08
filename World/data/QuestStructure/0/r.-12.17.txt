@@ -1,0 +1,2 @@
+StonePlantMound3,-6267,-6258,8779,8790
+BlazeSpawnerCrystal,-6284,-6278,8769,8775

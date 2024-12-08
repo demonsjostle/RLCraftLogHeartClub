@@ -1,0 +1,10 @@
+SpiderPit,-2612,-2603,4325,4335
+RLCraft_DecentSkeleton,-2679,-2679,4324,4324
+RLCraft_UndergroundRuin3,-2684,-2676,4322,4330
+P_MayanTemple3,-2696,-2643,4291,4335
+RLCraft_BasicSpider,-2737,-2737,4214,4214
+RLCraft_UndergroundRuin1,-2743,-2734,4211,4220
+ForestBeacon,-2741,-2733,4445,4453
+RLCraft_FriendlyOutpost,-2801,-2762,4189,4257
+RLCraft_DecentCaveSpider,-2805,-2805,4432,4432
+RLCraft_UndergroundRuin3,-2808,-2800,4426,4434

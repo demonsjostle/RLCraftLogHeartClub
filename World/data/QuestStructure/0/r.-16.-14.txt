@@ -4,3 +4,5 @@ RLCraft_UndergroundRuin2,-8696,-8686,-7274,-7267
 DinosaurSkull,-8690,-8671,-7268,-7257
 RLCraft_DecentWitch,-8694,-8694,-7329,-7329
 RLCraft_UndergroundRuin2,-8699,-8689,-7331,-7324
+StoneLeafMound,-8634,-8625,-7280,-7273
+StonePlantMound1,-8617,-8611,-7302,-7296

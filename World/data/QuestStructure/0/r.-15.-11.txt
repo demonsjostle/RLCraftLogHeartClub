@@ -1,0 +1,12 @@
+RLCraft_SmallUndergroundSkeleton,-7745,-7737,-6064,-6056
+P_SkyCastle,-7845,-7804,-6018,-5977
+StoneIceBoulder,-7695,-7685,-5938,-5929
+SmallAbandonedMine,-7788,-7773,-5907,-5882
+RLCraft_SmallUndergroundSkeleton,-7958,-7950,-6028,-6020
+DinosaurSkeleton,-7771,-7725,-5758,-5749
+RLCraft_DecentCaveSpider,-7886,-7886,-5764,-5764
+RLCraft_UndergroundRuin3,-7892,-7884,-5767,-5759
+UndergroundTreeoid,-7836,-7813,-5699,-5673
+RLCraft_DecentZombie,-7894,-7894,-5663,-5663
+RLCraft_UndergroundRuin3,-7900,-7892,-5666,-5658
+StoneIceBoulder1,-7804,-7794,-5652,-5642

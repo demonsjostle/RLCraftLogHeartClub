@@ -1,0 +1,11 @@
+RLCraft_SmallUndergroundSkeleton,3009,3017,-1024,-1016
+RLCraft_SmallUndergroundSkeleton,2955,2963,-999,-991
+RLCraft_UndergroundFarm,3031,3074,-892,-850
+RLCraft_BasicCaveSpider,3012,3012,-874,-874
+RLCraft_UndergroundRuin1,3009,3018,-877,-868
+RLCraft_BasicWitch,2954,2954,-864,-864
+RLCraft_UndergroundRuin1,2951,2960,-870,-861
+ThreeTowers,2859,2890,-867,-835
+VillageSavannaStonemason,2859,2874,-889,-873
+RLCraft_DecentWitch,2864,2864,-896,-896
+RLCraft_UndergroundRuin3,2859,2867,-898,-890

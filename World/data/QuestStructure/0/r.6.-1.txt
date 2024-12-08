@@ -1,0 +1,6 @@
+RLCraft_BasicSpider,3080,3080,-979,-979
+RLCraft_UndergroundRuin1,3077,3086,-985,-976
+DinosaurSkull,3110,3121,-1024,-1005
+RLCraft_DecentSpider,3150,3150,-873,-873
+RLCraft_UndergroundRuin3,3144,3152,-878,-870
+P_WitchDungeon,3235,3269,-1031,-1014

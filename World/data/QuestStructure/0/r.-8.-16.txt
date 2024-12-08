@@ -1,0 +1,11 @@
+StoneBoulder,-4483,-4474,-8245,-8236
+P_RuinedHouse,-4465,-4440,-8369,-8352
+StonePlantMound1,-4387,-4381,-8245,-8239
+MeteorSite,-4378,-4348,-8254,-8239
+StoneLeafMound,-4585,-4576,-8312,-8305
+ShrineSmallFire,-4539,-4529,-8392,-8382
+StonePlantMound3,-4575,-4566,-8371,-8360
+StonePlantMound1,-4506,-4500,-8424,-8418
+StonePlantBoulder,-4438,-4428,-8428,-8418
+StonePlantMound2,-4371,-4358,-8428,-8416
+StonePlantMound2,-4389,-4376,-8435,-8423

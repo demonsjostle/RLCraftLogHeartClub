@@ -5,3 +5,4 @@ StonePlantMound1,3476,3482,-1264,-1258
 RLCraft_DecentSpider,3464,3464,-1283,-1283
 RLCraft_UndergroundRuin2,3459,3469,-1285,-1278
 StonePlantMound3,3435,3446,-1254,-1245
+ShrineSmallAir,3169,3177,-1121,-1113

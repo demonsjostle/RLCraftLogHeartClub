@@ -1,2 +1,6 @@
 RLCraft_BasicSkeleton,4046,4046,9062,9062
 RLCraft_UndergroundRuin1,4040,4049,9056,9065
+StonePlantMound3,3993,4004,8707,8716
+P_SpookyHouse,3963,4003,8789,8815
+StonePlantMound1,3929,3935,8727,8733
+RLCraft_LargeUndergroundTown,3845,3958,8723,8860

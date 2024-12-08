@@ -2,3 +2,7 @@ SmallWoodenCottage1,9326,9337,-9221,-9215
 SmallOutpost,9254,9276,-9355,-9325
 RLCraft_DecentSpider,9491,9491,-9329,-9329
 RLCraft_UndergroundRuin2,9489,9496,-9334,-9324
+RLCraft_SmallUndergroundSkeleton,9696,9704,-9431,-9423
+RLCraft_DecentCaveSpider,9686,9686,-9446,-9446
+RLCraft_UndergroundRuin2,9681,9688,-9451,-9441
+StoneBoulder,9646,9655,-9450,-9441

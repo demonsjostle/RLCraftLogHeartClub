@@ -1,0 +1,2 @@
+ShrineSmallAir,-2103,-2095,-5605,-5597
+RLCraft_SmallUndergroundSkeleton,-2138,-2130,-5579,-5571

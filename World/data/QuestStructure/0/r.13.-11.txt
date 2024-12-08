@@ -1,0 +1,7 @@
+BrickHenge,7131,7147,-5990,-5974
+UndergroundCultChamber,7113,7145,-6008,-5966
+ShrineSmallAir,7035,7043,-5985,-5977
+RLCraft_DecentCaveSpider,7001,7001,-5710,-5710
+RLCraft_UndergroundRuin3,6999,7007,-5715,-5707
+StoneLeafMound,6964,6971,-5722,-5713
+RLCraft_SmallUndergroundSkeleton,6972,6980,-5802,-5794

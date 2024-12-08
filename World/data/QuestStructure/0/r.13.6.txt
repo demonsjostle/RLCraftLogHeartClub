@@ -1,0 +1,6 @@
+StoneIceBoulder,7116,7125,3469,3479
+RLCraft_DecentWitch,7066,7066,3469,3469
+RLCraft_UndergroundRuin2,7061,7071,3467,3474
+RLCraft_SmallUndergroundSkeleton,6918,6926,3483,3491
+StoneIceBoulder2,7047,7056,3374,3383
+P_Tent,6956,6965,3370,3379

@@ -1,0 +1,17 @@
+SmallAbandonedMine,-4721,-4706,-7159,-7134
+StonePlantMound4,-4746,-4739,-7151,-7144
+StonePlantMound,-4626,-4621,-7129,-7124
+StonePlantMound2,-4645,-4632,-7093,-7081
+StoneLeafMound,-4757,-4748,-7124,-7117
+StoneLeafMound,-4669,-4660,-6944,-6937
+SmallWoodenCottage1,-4666,-4660,-6883,-6872
+StonePlantMound1,-4687,-4681,-6887,-6881
+ShrineSmallWater,-4632,-4624,-6842,-6834
+StonePlantMound4,-4860,-4853,-6977,-6970
+StonePlantMound2,-4868,-4856,-7083,-7070
+RLCraft_BasicSpider,-4893,-4893,-6837,-6837
+RLCraft_UndergroundRuin1,-4896,-4887,-6840,-6831
+RLCraft_DecentWitch,-4806,-4806,-7156,-7156
+RLCraft_UndergroundRuin3,-4809,-4801,-7162,-7154
+ElvenPond,-4808,-4779,-7171,-7141
+AbandonedWoodTower,-4985,-4955,-7095,-7059

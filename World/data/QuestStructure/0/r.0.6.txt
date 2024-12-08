@@ -18,3 +18,10 @@ StonePlantMound,-330,-325,3075,3080
 StoneBoulder,-212,-203,3138,3147
 StonePlantBoulder,-208,-198,3107,3117
 StonePlantMound3,-180,-169,3333,3342
+StonePlantMound,-172,-167,3576,3581
+RLCraft_DecentSpider,-88,-88,3583,3583
+RLCraft_UndergroundRuin2,-93,-86,3578,3588
+StoneLeafMound,-68,-61,3568,3577
+StonePlantMound,-194,-189,3569,3574
+MeteorSite,-122,-92,3545,3560
+StonePlantMound,10,15,3552,3557

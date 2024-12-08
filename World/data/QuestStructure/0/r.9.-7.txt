@@ -1,0 +1,9 @@
+StoneLeafMound,4895,4902,-4100,-4091
+StonePlantBoulder,4881,4891,-4065,-4055
+StonePlantMound2,4786,4799,-4082,-4070
+MysticalTree2,4770,4780,-4096,-4086
+RLCraft_SmallUndergroundSkeleton,4731,4739,-4093,-4085
+StonePlantMound3,4954,4963,-4016,-4005
+StonePlantMound3,5024,5033,-4029,-4018
+StoneBoulder,5033,5042,-4025,-4016
+StonePlantMound4,4650,4657,-4037,-4030

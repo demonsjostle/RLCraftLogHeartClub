@@ -1,0 +1,8 @@
+StonePlantMound,-57,-52,3690,3695
+OldWatchtower,-43,-31,3625,3638
+RLCraft_DecentSkeleton,-37,-37,3632,3632
+RLCraft_UndergroundRuin3,-39,-31,3627,3635
+RLCraft_cryo_bit,-15,10,3610,3635
+StonePlantMound,52,57,3647,3652
+StonePlantMound,-181,-176,3595,3600
+ShrineSmallFire,104,114,3789,3799

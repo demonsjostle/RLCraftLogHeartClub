@@ -1,0 +1,14 @@
+RLCraft_SmallUndergroundSkeleton,2024,2032,-2127,-2119
+DesertWatchtower,1977,1987,-2171,-2161
+RLCraft_BasicZombie,1942,1942,-2183,-2183
+RLCraft_UndergroundRuin1,1936,1945,-2189,-2180
+RLCraft_DecentWitch,1809,1809,-2230,-2230
+RLCraft_UndergroundRuin2,1807,1814,-2235,-2225
+DesertBeacon,1980,1986,-2239,-2233
+RLCraft_SmallUndergroundSkeleton,2008,2016,-2238,-2230
+SmallWoodenCottage2,1797,1805,-2260,-2252
+RLCraft_BasicSpider,1834,1834,-2326,-2326
+RLCraft_UndergroundRuin1,1831,1840,-2332,-2323
+RLCraft_SmallUndergroundSkeleton,1867,1875,-2347,-2339
+AbandonedWoodTower,1828,1858,-2372,-2336
+AbandonedWoodTower,1796,1826,-2370,-2334

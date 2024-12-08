@@ -6,3 +6,5 @@ StoneLeafMound,2965,2972,-1300,-1291
 StonePlantMound1,3038,3044,-1286,-1280
 P_WitchDungeon,2829,2863,-1281,-1264
 RLCraft_SmallUndergroundSkeleton,2831,2839,-1207,-1199
+MeteorSite,2976,3006,-1117,-1102
+ShrineSmallFire,2958,2968,-1100,-1090

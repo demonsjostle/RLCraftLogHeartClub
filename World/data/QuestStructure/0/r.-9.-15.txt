@@ -1,0 +1,7 @@
+DinosaurSkeleton,-5025,-4979,-7722,-7713
+P_VillageFarmhouse,-4973,-4961,-7855,-7843
+RLCraft_DecentCaveSpider,-4853,-4853,-7882,-7882
+RLCraft_UndergroundRuin3,-4856,-4848,-7888,-7880
+RLCraft_DecentWitch,-4722,-4722,-7824,-7824
+RLCraft_UndergroundRuin2,-4727,-4717,-7826,-7819
+StonePlantBoulder,-4730,-4720,-7902,-7892

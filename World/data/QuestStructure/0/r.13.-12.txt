@@ -1,0 +1,8 @@
+StoneBoulder,7125,7134,-6573,-6564
+StoneBoulder,7079,7088,-6558,-6549
+StonePlantMound,7156,7161,-6590,-6585
+SmallWoodenCottage2,7134,7142,-6643,-6635
+StonePlantMound,7163,7168,-6309,-6304
+SmallWoodenCottage1,7082,7088,-6268,-6257
+StonePlantMound2,7058,7070,-6477,-6464
+StonePlantMound1,7055,7061,-6362,-6356

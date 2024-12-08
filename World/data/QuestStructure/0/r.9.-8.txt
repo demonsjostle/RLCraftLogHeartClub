@@ -1,1 +1,6 @@
 UndergroundTreeoid,4756,4779,-4506,-4480
+StonePlantMound1,4881,4887,-4126,-4120
+StoneBoulder,4878,4887,-4106,-4097
+AbandonedWoodTower,4732,4768,-4166,-4136
+StonePlantMound3,4757,4766,-4245,-4234
+RLCraft_SmallUndergroundSkeleton,4735,4743,-4236,-4228

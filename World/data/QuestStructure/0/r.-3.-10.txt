@@ -1,0 +1,16 @@
+P_VillageHouse,-1952,-1943,-5630,-5619
+StoneBoulder,-2002,-1993,-5622,-5613
+SeasonsGreenhouse,-1930,-1918,-5626,-5616
+VillageGuardTower,-1917,-1905,-5610,-5598
+P_VillageFarmhouse,-1930,-1918,-5607,-5595
+StonePlantMound,-1890,-1885,-5584,-5579
+RLCraft_Vineyard,-1893,-1873,-5606,-5578
+SmallAbandonedMine,-1927,-1902,-5562,-5547
+RLCraft_DecentSkeleton,-2005,-2005,-5519,-5519
+RLCraft_UndergroundRuin3,-2007,-1999,-5522,-5514
+StonePlantMound4,-1818,-1811,-5528,-5521
+P_RuinedHouse,-1963,-1946,-5496,-5471
+StoneBoulder,-1790,-1781,-5525,-5516
+StonePlantMound3,-1770,-1759,-5577,-5568
+StonePlantMound3,-1748,-1739,-5540,-5529
+StonePlantMound2,-1740,-1727,-5577,-5565

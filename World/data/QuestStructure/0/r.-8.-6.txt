@@ -1,0 +1,4 @@
+SmallWoodenCottage1,-4426,-4420,-3397,-3386
+ShrineSmallFire,-4523,-4513,-3321,-3311
+ShrineSmallFire,-4504,-4494,-3252,-3242
+RLCraft_UndergroundFarm,-4560,-4517,-3471,-3429

@@ -1,0 +1,6 @@
+StoneIceBoulder3,-7777,-7767,-5027,-5017
+P_Tent,-7775,-7766,-5017,-5008
+RLCraft_BasicCaveSpider,-7758,-7758,-4969,-4969
+RLCraft_UndergroundRuin1,-7764,-7755,-4975,-4966
+StonePlantMound4,-7761,-7754,-4645,-4638
+StonePlantMound,-7730,-7725,-4613,-4608

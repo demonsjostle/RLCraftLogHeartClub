@@ -31,3 +31,9 @@ RLCraft_BasicWitch,-8500,-8500,-6247,-6247
 RLCraft_UndergroundRuin1,-8503,-8494,-6250,-6241
 RLCraft_DecentSpider,-8458,-8458,-6246,-6246
 RLCraft_UndergroundRuin3,-8461,-8453,-6252,-6244
+RLCraft_BasicCaveSpider,-8685,-8685,-6308,-6308
+RLCraft_UndergroundRuin1,-8691,-8682,-6311,-6302
+SmallAbandonedMine,-8605,-8580,-6298,-6283
+StonePlantMound1,-8559,-8553,-6237,-6231
+StonePlantMound4,-8511,-8504,-6184,-6177
+BrickHenge,-8510,-8494,-6187,-6171

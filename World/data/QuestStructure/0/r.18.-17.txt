@@ -83,3 +83,9 @@ StoneMazePath,9232,9234,-9168,-9166
 StoneMazePath,9232,9234,-9165,-9163
 StoneMazeEndChest,9235,9237,-9165,-9163
 StoneMazeBig,9214,9261,-9189,-9142
+ShrineSmallAir,9326,9334,-8826,-8818
+StonePlantMound3,9337,9348,-8861,-8852
+StoneBoulder,9331,9340,-8764,-8755
+StonePlantBoulder,9247,9257,-8916,-8906
+StonePlantMound4,9244,9251,-9018,-9011
+P_TreeDungeon,9333,9375,-8961,-8916

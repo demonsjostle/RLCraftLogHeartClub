@@ -1,0 +1,7 @@
+RLCraft_DecentWitch,8969,8969,5352,5352
+RLCraft_UndergroundRuin2,8964,8971,5347,5357
+RLCraft_PlainsCamp,8846,8892,5186,5225
+AbandonedWoodTower,8967,9003,5219,5249
+ShrineSmallFire,8985,8995,5430,5440
+RLCraft_DecentSkeleton,8809,8809,5147,5147
+RLCraft_UndergroundRuin2,8804,8814,5142,5149

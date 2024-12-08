@@ -1,0 +1,6 @@
+MysticalTree1,-2090,-2077,-5862,-5851
+StonePlantMound4,-2128,-2121,-5853,-5846
+RLCraft_AgentStarbuck_WaterBase,-2209,-2192,-5648,-5636
+StonePlantMound4,-2212,-2205,-5806,-5799
+StoneBoulder,-2227,-2218,-5848,-5839
+StonePlantMound4,-2240,-2233,-5795,-5788

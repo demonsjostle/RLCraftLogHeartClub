@@ -10,3 +10,8 @@ P_WitchDungeon,-7644,-7627,-4267,-4233
 DinosaurSkull,-7500,-7481,-4299,-4288
 StonePlantMound,-7456,-7451,-4285,-4280
 ShrineSmallEarth,-7511,-7499,-4329,-4317
+RLCraft_DecentSpider,-7678,-7678,-4581,-4581
+RLCraft_UndergroundRuin2,-7680,-7673,-4586,-4576
+RLCraft_SmallUndergroundSkeleton,-7664,-7656,-4543,-4535
+StonePlantMound1,-7633,-7627,-4483,-4477
+P_WizardTower,-7659,-7629,-4462,-4432

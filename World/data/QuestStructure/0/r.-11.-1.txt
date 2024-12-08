@@ -1,0 +1,8 @@
+StonePlantMound3,-5644,-5635,-855,-844
+StonePlantMound,-5667,-5662,-908,-903
+RLCraft_DecentSpider,-5682,-5682,-757,-757
+RLCraft_UndergroundRuin2,-5687,-5677,-759,-752
+WitchPillars,-5716,-5699,-739,-722
+WitchPillars,-5776,-5759,-739,-722
+ClayWaterMound,-5726,-5719,-613,-605
+UndergroundCrypt,-5771,-5757,-890,-862

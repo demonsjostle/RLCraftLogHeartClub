@@ -243,3 +243,8 @@ StoneMazeEndChest,7863,7865,-7515,-7513
 StoneMazeSmall,7860,7883,-7524,-7501
 P_AsianHome,7902,7935,-7489,-7444
 ElvenPond,7922,7952,-7535,-7506
+AbandonedWoodTower,7779,7809,-7606,-7570
+RLCraft_SmallTown,7795,7866,-7717,-7642
+DinosaurSkeleton,7874,7920,-7622,-7613
+RLCraft_DecentCaveSpider,8100,8100,-7204,-7204
+RLCraft_UndergroundRuin3,8095,8103,-7206,-7198

@@ -12,3 +12,5 @@ RLCraft_BasicCaveSpider,-7513,-7513,-5601,-5601
 RLCraft_UndergroundRuin1,-7516,-7507,-5604,-5595
 DinosaurSkull,-7665,-7646,-5618,-5607
 ShrineSmallFire,-7524,-7514,-5624,-5614
+StoneIceBoulder,-7658,-7648,-5128,-5119
+StoneIceBoulder,-7531,-7522,-5132,-5122

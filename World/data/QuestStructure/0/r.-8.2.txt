@@ -1,0 +1,9 @@
+RLCraft_DecentWitch,-4579,-4579,1276,1276
+RLCraft_UndergroundRuin2,-4584,-4574,1274,1281
+StoneIceBoulder1,-4551,-4541,1088,1098
+ShrineSmallFire,-4519,-4509,1063,1073
+IceThorn3,-4518,-4504,1105,1119
+ShrineSmallWater,-4466,-4458,1138,1146
+StoneIceBoulder3,-4446,-4436,1084,1094
+RLCraft_DecentSkeleton,-4360,-4360,1230,1230
+RLCraft_UndergroundRuin3,-4362,-4354,1227,1235

@@ -1,3 +1,4 @@
 StonePlantMound2,2540,2552,-1969,-1956
 ClayWaterMound,2523,2530,-1990,-1982
 ShrineSmallFire,2319,2329,-2033,-2023
+DesertBeacon,2115,2121,-2050,-2044

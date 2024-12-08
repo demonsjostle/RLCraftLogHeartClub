@@ -11,3 +11,7 @@ StonePlantBoulder,-9119,-9109,-5883,-5873
 RLCraft_xKOSMOS42,-9213,-9187,-5824,-5795
 StonePlantMound2,-9086,-9074,-5787,-5774
 StonePlantMound4,-9036,-9029,-5757,-5750
+ElvenPond,-8731,-8701,-6024,-5995
+P_WitchDungeon,-8777,-8743,-6001,-5984
+StonePlantMound4,-8728,-8721,-5923,-5916
+StonePlantBoulder,-8814,-8804,-6041,-6031

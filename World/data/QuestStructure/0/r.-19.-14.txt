@@ -1,0 +1,6 @@
+RLCraft_DecentWitch,-9764,-9764,-7388,-7388
+RLCraft_UndergroundRuin3,-9767,-9759,-7394,-7386
+StonePlantMound,-9867,-9862,-7440,-7435
+RLCraft_DecentSkeleton,-9887,-9887,-7451,-7451
+RLCraft_UndergroundRuin2,-9889,-9882,-7456,-7446
+Flagship,-10012,-9969,-7502,-7387

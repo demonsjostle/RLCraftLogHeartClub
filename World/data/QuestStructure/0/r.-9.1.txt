@@ -1,0 +1,4 @@
+StoneIceBoulder2,-4659,-4650,1019,1028
+StoneIceBoulder2,-4821,-4812,1015,1024
+StoneIceBoulder3,-4621,-4611,997,1007
+StoneIceBoulder,-4669,-4659,983,992

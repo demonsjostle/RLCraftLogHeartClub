@@ -1,0 +1,9 @@
+ClayWaterMound1,-4438,-4428,-7594,-7583
+StonePlantMound3,-4543,-4532,-7533,-7524
+SmallFortRuinsJapanese,-4418,-4372,-7547,-7501
+WoodThorn,-4524,-4513,-7398,-7387
+StonePlantMound1,-4571,-4565,-7389,-7383
+RLCraft_DecentSkeleton,-4537,-4537,-7212,-7212
+RLCraft_UndergroundRuin3,-4542,-4534,-7214,-7206
+StonePlantMound3,-4597,-4588,-7206,-7195
+StonePlantMound4,-4555,-4548,-7187,-7180

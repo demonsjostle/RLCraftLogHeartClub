@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,10299,10307,2448,2456
+RLCraft_DecentCaveSpider,10403,10403,2212,2212
+RLCraft_UndergroundRuin2,10398,10408,2207,2214
+StoneLeafMound,10426,10435,2348,2355
